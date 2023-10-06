@@ -13,7 +13,7 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://jenna-lab.github.io/four-card-feature--css--flexbox/)
+- Live Site URL: [(https://jenna-lab.github.io/E-commerce/)]
 
 
 ### Built with
