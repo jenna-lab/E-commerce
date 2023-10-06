@@ -176,3 +176,12 @@
 .box3 h4{
     color: hsl(220, 14%, 75%);
 }
+
+.cart{
+    width: 90%;
+    height: 20%;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
