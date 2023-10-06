@@ -195,3 +195,18 @@
     align-items: center;
     background-color: hsl(223, 64%, 98%);
 }
+
+.cartAmount button{
+    border: none;
+    color: hsl(26, 100%, 55%);
+    background: none;
+}
+.zero h4{
+     color:hsl(0, 0%, 0%) ;  
+}
+.cartBox h5{
+    color:hsl(223, 64%, 98%) ;
+}
+.cartBox img{
+    color:hsl(223, 64%, 98%) ;
+}
