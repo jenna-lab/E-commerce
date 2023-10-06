@@ -118,11 +118,6 @@
     width: 22%;
     border-radius: 10px;
 }
-.thumbnails img:hover{
-    /* color:hsl(0, 0%, 100%) ; */
-    border: 1px solid hsl(26, 100%, 55%);
-    opacity: 0.3;
-}
 
 /* add style to content side */
 .contentSide{
@@ -177,6 +172,7 @@
     color: hsl(220, 14%, 75%);
 }
 
+/* add style to cart */
 .cart{
     width: 90%;
     height: 20%;
@@ -196,3 +192,13 @@
     background-color: hsl(26, 100%, 55%);
 }
 
+
+.cartAmount{
+    width: 35%;
+    height: 40%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: hsl(223, 64%, 98%);
+}
